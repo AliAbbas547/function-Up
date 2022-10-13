@@ -1,5 +1,2 @@
 # function-Up
-hello how are you 
-is everything fine 
-any problem
-no at all
+now I am very happy because i have successfully done my first github assignment
